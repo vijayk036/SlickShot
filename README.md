@@ -12,3 +12,6 @@ SlickShot is a demo app, built to explain steps involved in building hybrid apps
 5. Install camera cordova plugin
 6. Run the app on a device.
  
+#Follow step by step guide, to know how to build hybrid apps with cordova, here
+
+https://pub.scotch.io/@vijayk036/building-hybrid-mobile-apps-using-cordova-and-angularjs-for-android
